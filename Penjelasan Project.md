@@ -16,4 +16,5 @@ Repositori ini berisi project akhir mata kuliah **Struktur Data dan Algoritma (S
 Salsabila Alika Seftizianka– Mahasiswa Sains Data Universitas Negeri Surabaya
 
 Eka Aliya– Mahasiswa Sains Data Universitas Negeri Surabaya
+
 Dista Ishlahul Amalia– Mahasiswa Sains Data Universitas Negeri Surabaya
